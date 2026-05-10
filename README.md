@@ -1,5 +1,7 @@
 # raspi-schedule-discord
 
+> ⚠️ **Note:** This tool is designed for **OpenClaw users**. If you're using OpenClaw on Raspberry Pi, this schedule manager integrates seamlessly. For standalone Raspberry Pi setups, some adjustments may be needed (see [Setup](#setup)).
+
 A lightweight schedule manager for Raspberry Pi that sends Discord notifications 60 and 10 minutes before your events. Stores events in iCal format (.ics), fully offline-capable, and easy to set up with cron. Perfect for personal or small-team use in a closed environment.
 
 ---
